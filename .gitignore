@@ -1,18 +1,6 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/common2ols
-/FeatureSelection
-/harmonogram-wydarzen-gca
-/Sudoku
-/DataStructores/Coft.DataStructures/Coft.DataStructures.TreesUnitTests/obj
-/DataStructores/Coft.DataStructures/Coft.DataStructures.TreesUnitTests/bin/Debug/netcoreapp2.2
-/DataStructores/Coft.DataStructures/Coft.DataStructures.Trees/bin/Debug/netcoreapp2.2
-/DataStructores/Coft.DataStructures/Coft.DataStructures.Trees/obj
-/DataStructores/Coft.DataStructures/Coft.DataStructures.Terminal/bin/Debug/netcoreapp2.2
-/DataStructores/Coft.DataStructures/Coft.DataStructures.Terminal/obj
-/DataStructores/Coft.DataStructures/Coft.DataStructures.Console/obj
-/DataStructores/Coft.DataStructures/Coft.DataStructures.DoubleLinkedList/obj
-/500-practice-problems/500-practice-problems/obj
-/500-practice-problems
+.vs
+/Coft.DataStructures.Console/obj
+/Coft.DataStructures.DoubleLinkedList/obj
+/Coft.DataStructures.Terminal/obj
+/Coft.DataStructures.Trees/obj
+/Coft.DataStructures.TreesUnitTests/obj
